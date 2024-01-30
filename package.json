@@ -1,8 +1,16 @@
 {
   "type": "module",
   "dependencies": {
-"inquirer":"^9.2.0",
-"qr-image":"^3.2.0"
-
-  }
+    "inquirer": "^9.2.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qrcode",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Abida Mir",
+  "license": "ISC"
 }
